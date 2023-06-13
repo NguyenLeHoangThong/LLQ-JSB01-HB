@@ -1,2 +1,3 @@
-# LLQ-JSB01-HB
-Tổng hợp tài liệu, video của khóa học JSB, lớp LLQ-JSB01-HB
+# Lớp LLQ-JSB01-HB
+## Videos record:
+Buổi 1 (11/6/2023): https://youtu.be/Yypb_3FQI1c 
