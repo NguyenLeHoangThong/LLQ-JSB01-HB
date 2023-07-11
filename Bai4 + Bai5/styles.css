@@ -103,3 +103,19 @@ body {
 .description-item {
     text-align: center;
 }
+
+@media only screen and (max-width: 576px) {
+    .band-description {
+        max-width: 100%;
+    }
+
+    .band-description > p {
+        padding: 0 16px;
+    }
+    .description-list {
+        flex-wrap: wrap;
+    }
+    .description-item {
+        width: 100%;
+    }
+}
