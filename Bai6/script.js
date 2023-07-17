@@ -73,3 +73,5 @@ age1 = "Thong"
 // }
 
 // console.log("age2 = ", age2)
+
+// Link tham khảo: https://www.w3schools.com/js/
