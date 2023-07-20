@@ -6,3 +6,4 @@
 ### Buổi 4 (02/07/2023): https://drive.google.com/file/d/1bxsI98cUI2oHa842-7I1HQa541liCb90/view?usp=sharing
 ### Buổi 5 (09/07/2023): https://youtu.be/1Xdq7E-mSbE
 ### Video bổ trợ 1 - chủ đề Responsive: https://youtu.be/jvPiOn4A87A
+### Buổi 6 (16/07/2023): https://youtu.be/1Xdq7E-mSbE
