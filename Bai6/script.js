@@ -5,7 +5,7 @@ ageAfter4Years = 25
 let avg = 3.5
 
 // string
-let fullName = "Thong Nguyen"
+let fullName = "Thong Nguyen" // dấu gán
 let fullName20 = fullName + " 20"
 
 
@@ -17,9 +17,6 @@ let avgMath = null
 
 // undefined
 let xe;
-
-
-
 
 // conditional
 const webAge = 0 
@@ -75,3 +72,35 @@ age1 = "Thong"
 // console.log("age2 = ", age2)
 
 // Link tham khảo: https://www.w3schools.com/js/
+
+
+// let x = 1;
+
+// let y = 3;
+// let z = 4;
+
+// let max = x;
+
+// if (max < y) { //1 < 3
+//     max = y;
+// }
+
+// if (max < z) { // 1< 4 => true
+//     max = z
+// }
+
+const a = 1;
+const b = 4;
+const c = 4;
+
+if (a === 0 && b === 0) {
+    console.log("Phuong trinh vo nghiem")
+}
+else if (a === 0) {
+    const nghiem = -c/b;
+    console.log("Nghiem duy nhat: ", nghiem)
+}
+else if ((b*b - 4*a*c) < 0) console.log("Phuong trinh vo nghiem");
+
+
+console.log(Math.sqrt(b*b - 4*a*c))
