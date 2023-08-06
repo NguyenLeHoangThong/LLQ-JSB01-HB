@@ -9,3 +9,4 @@
 ### Buổi 6 (16/07/2023): https://drive.google.com/file/d/1PCuNVjKKMsHlVtd4G1Afeuvh3achSq-a/view?usp=sharing
 ### Buổi 7 (23/07/2023): https://drive.google.com/file/d/117_VadrxZEnA4bxNM_3CuADiENATRZCD/view?usp=sharing
 ### Buổi 8 (30/07/2023): https://drive.google.com/file/d/139-IP-TJGAoVpQrjPMfyZaammnBpR-1K/view
+### Buổi 9 (06/08/2023): https://youtu.be/tJp8kl9WZYM
